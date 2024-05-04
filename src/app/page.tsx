@@ -20,12 +20,11 @@ export default async function Home() {
                 <span>🤖 AI integration soon!</span>
               </span>
               <h1 className="mt-8 text-3xl font-extrabold tracking-tight leading-normal lg:text-6xl">
-                Manage, plan, and tutor with ease
+                A simple notes with ease
               </h1>
               <p className="max-w-xl mx-auto mt-8 text-base lg:text-xl text-secondary-foreground">
-                If you are using multiple apps to do one job, then let{" "}
-                <strong>Tuton</strong> helps clean up the mess and keep you
-                focused.
+                Who needs lots of complicated functions for taking simple notes?
+                Not us, easily take notes and have an great life!
               </p>
             </div>
             <div className="flex justify-center max-w-sm mx-auto mt-10">
