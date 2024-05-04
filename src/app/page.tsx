@@ -20,7 +20,7 @@ export default async function Home() {
                 <span>🤖 AI integration soon!</span>
               </span>
               <h1 className="mt-8 text-3xl font-extrabold tracking-tight leading-normal lg:text-6xl">
-                A simple notes with ease
+                Take <span>notes</span> with ease
               </h1>
               <p className="max-w-xl mx-auto mt-8 text-base lg:text-xl text-secondary-foreground">
                 Who needs lots of complicated functions for taking simple notes?
