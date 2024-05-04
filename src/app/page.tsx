@@ -17,7 +17,7 @@ export default async function Home() {
           <div className="max-w-3xl mx-auto text-center">
             <div>
               <span className="w-auto px-6 py-3 rounded-full bg-secondary">
-                <span>🤖 AI integration soon!</span>
+                <span>🤖 AI integration coming soon!</span>
               </span>
               <h1 className="mt-8 text-3xl font-extrabold tracking-tight leading-normal lg:text-6xl">
                 Take <span>notes</span> with ease
