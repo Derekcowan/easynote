@@ -1,15 +1,18 @@
 Nice little project for adding basic notes.
 
-Stack used
+## Stack used
+
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-NEXT JS
-TAILWIND CSS
-SHADCN UI
-SUPABASE
-PRISA
-STRIPE
-KINDE AUTH
-VERCEL
+
+- NEXT JS
+- TAILWIND CSS
+- SHADCN UI
+- SUPABASE
+- PRISA 
+- STRIPE
+- KINDE AUTH
+- VERCEL 
+
 ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
